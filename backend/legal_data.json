@@ -1,0 +1,20 @@
+{
+  "legal_qa": [
+    {
+      "question": "what is a non-disclosure agreement?",
+      "answer": "A non-disclosure agreement (NDA) is a legally binding contract that establishes confidentiality between parties."
+    },
+    {
+      "question": "How to file a trademark?",
+      "answer": "To file a trademark, submit an application to the USPTO with the required fees and a clear representation of the mark."
+    },
+    {
+      "question": "What is negligence in law?",
+      "answer": "Negligence is a failure to exercise reasonable care, resulting in harm to others."
+    },
+    {
+      "question": "Thank you",
+      "answer": "Have a wonderful day"
+    }
+  ]
+}
